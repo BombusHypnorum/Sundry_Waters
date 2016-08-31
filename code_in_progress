@@ -1,0 +1,19 @@
+# Note: written with Python v3.5.1
+# Introduce Rochdale choose-your-own-adventure
+import random
+import time
+import datetime
+
+# Start, set date and time of adventure
+print ("*** SUNDRY WATERS: A ROCHDALE ADVENTURE ***")
+format = "%a %b %d %H:%M:%S %Y"
+today = datetime.date.today()
+print ("Today it's {:%a %d %b %Y}".format(today) + ". You know it's going to be one of those days as you wake up with crink in the neck, a pain in the lower back.")
+time.sleep(5)
+
+
+
+
+
+
+#End
