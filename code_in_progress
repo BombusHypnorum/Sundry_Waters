@@ -4,7 +4,7 @@ import random
 import time
 import datetime
 
-# Start, set date and time of adventure
+# Start + set date and time of adventure
 print ("*** SUNDRY WATERS: A ROCHDALE ADVENTURE ***")
 format = "%a %b %d %H:%M:%S %Y"
 today = datetime.date.today()
